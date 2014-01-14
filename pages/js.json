@@ -1,0 +1,19 @@
+{
+    "pageTitle": "About JS Experience",
+    "breadCrumb": [
+        {
+            "title": "Home",
+            "href": "#home",
+            "text": "Home"
+        },
+        {
+            "text": "Skill",
+            "active": true
+        },
+        {
+            "text": "JS",
+            "active": true
+        }
+    ],
+    "pageBody": "<div class='panel panel-default'><div class='panel-heading'>JavaScript Experience</div><div class='panel-body'><p>JavaScript (JS) is an interpreted computer programming language. As part of web browsers, implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It has also become common in server-side programming, game development and the creation of desktop applications..</p><p>JavaScript is a prototype-based scripting language with dynamic typing and has first-class functions. Its syntax was influenced by C. JavaScript copies many names and naming conventions from Java, but the two languages are otherwise unrelated and have very different semantics. The key design principles within JavaScript are taken from the Self and Scheme programming languages. It is a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles.</p><p>The application of JavaScript to uses outside of web pages—for example, in PDF documents, site-specific browsers, and desktop widgets—is also significant. Newer and faster JavaScript VMs and frameworks built upon them (notably Node.js) have also increased the popularity of JavaScript for server-side web applications.</p></div></div>"
+}

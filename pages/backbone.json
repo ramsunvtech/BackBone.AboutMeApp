@@ -1,0 +1,19 @@
+{
+    "pageTitle": "About BackBoneJS Experience",
+    "breadCrumb": [
+        {
+            "title": "Home",
+            "href": "#home",
+            "text": "Home"
+        },
+        {
+            "text": "Skill",
+            "active": true
+        },
+        {
+            "text": "BackBoneJS",
+            "active": true
+        }
+    ],
+    "pageBody": "<div class='panel panel-default'><div class='panel-heading'>BackBoneJS Experience</div><div class='panel-body'><img src='http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/BackboneJS_logo.png/200px-BackboneJS_logo.png' alt='BackBoneJS'><p>Backbone is a JavaScript library with a RESTful JSON interface and is based on the model–view–presenter (MVP) application design paradigm.</p><p>Backbone is known for being lightweight, as its only dependency is on one JavaScript library, Underscore.js. It is designed for developing single-page web applications, and for keeping various parts of web applications (e.g. multiple clients and the server) synchronized.</p><p>Backbone was created by Jeremy Ashkenas, who is also known for CoffeeScript.</p></div></div>"
+}

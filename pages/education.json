@@ -1,0 +1,15 @@
+{
+    "pageTitle": "About My Education",
+    "breadCrumb": [
+        {
+            "title": "Home",
+            "href": "#home",
+            "text": "Home"
+        },
+        {
+            "text": "Education",
+            "active": true
+        }
+    ],
+    "pageBody": "<div class='panel panel-default'><div class='panel-heading'>Qualification</div><div class='panel-body'><p>Some default panel content here. Nulla vitae elit libero, a pharetra augue. Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam id dolor id nibh ultricies vehicula ut id elit.</p></div><table class='table'><thead><tr><th>#</th><th>Degree</th><th>University</th><th>Percentage %</th></tr></thead><tbody><tr><td>1</td><td>Bachelor of Computer Edication</td><td>Madras University</td><td>65%</td></tr><tr><td>2</td><td>Master's in Computer Education</td><td>Madras University</td><td>71%</td></tr><tr><td>3</td><td>Mtech</td><td>IIT Bombay</td><td>90%</td></tr></tbody></table></div>"
+}

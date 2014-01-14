@@ -1,0 +1,19 @@
+{
+    "pageTitle": "About CSS Experience",
+    "breadCrumb": [
+        {
+            "title": "Home",
+            "href": "#home",
+            "text": "Home"
+        },
+        {
+            "text": "Skill",
+            "active": true
+        },
+        {
+            "text": "CSS",
+            "active": true
+        }
+    ],
+    "pageBody": "<div class='panel panel-default'><div class='panel-heading'>Cascading Style Sheets</div><div class='panel-body'><img src='http://blogs.microsoft.co.il/blogs/gilf/CSS3Logo_406A9E5E.jpg' alt='CSS'><p>Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation semantics (the look and formatting) of a document written in a markup language.</p><p>Its most common application is to style web pages written in HTML and XHTML, but the language can also be applied to any kind of XML document, including plain XML, SVG and XUL. CSS is designed primarily to enable the separation of document content (written in HTML or a similar markup language) from document presentation, including elements such as the layout, colors, and fonts.</p><p> This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple pages to share formatting, and reduce complexity and repetition in the structural content (such as by allowing for tableless web design). CSS can also allow the same markup page to be presented in different styles for different rendering methods, such as on-screen, in print, by voice (when read out by a speech-based browser or screen reader) and on Braille-based, tactile devices. It can also be used to allow the web page to display differently depending on the screen size or device on which it is being viewed. While the author of a document typically links that document to a CSS file, readers can use a different style sheet, perhaps one on their own computer, to override the one the author has specified.</p></div></div>"
+}

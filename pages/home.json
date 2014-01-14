@@ -1,0 +1,10 @@
+{
+    "pageTitle": "Welcome to the About Me App",
+    "breadCrumb": [
+        {
+            "text": "Home",
+            "active": true
+        }
+    ],
+    "pageBody": "<p>Unfortunately Backbone.js does not tell you how to organize your code, leaving many developers in the dark regarding how to load scripts and lay out their development environments.</p><p>This was quite a different decision to other JavaScript MVC frameworks who were more in favor of setting a development philosophy. Hopefully this tutorial will allow you to build a much more robust project with great separation of concerns between design and code.</p><p>This tutorial will get you started on combining Backbone.js with AMD (Asynchronous Module Definitions) through Require.js. In addition to Require.js, Text.js plays a significant role by loading the html templates and preparing them for the underscore templating process.</p>"
+}

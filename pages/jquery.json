@@ -1,0 +1,19 @@
+{
+    "pageTitle": "About jQuery Experience",
+    "breadCrumb": [
+        {
+            "title": "Home",
+            "href": "#home",
+            "text": "Home"
+        },
+        {
+            "text": "Skill",
+            "active": true
+        },
+        {
+            "text": "jQuery",
+            "active": true
+        }
+    ],
+    "pageBody": "<div class='panel panel-default'><div class='panel-heading'>jQuery Experience</div><div class='panel-body'><img src='http://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JQuery_logo.svg/220px-JQuery_logo.svg.png' alt='jquery'><p>jQuery is a multi-browser (cf. cross-browser) JavaScript library designed to simplify the client-side scripting of HTML. It was released in January 2006 at BarCamp NYC by John Resig. It is currently developed by a team of developers led by Dave Methvin. Used by over 65% of the 10,000 most visited websites, jQuery is the most popular JavaScript library in use today.</p><p>jQuery is free, open source software, licensed under the MIT License. jQuery's syntax is designed to make it easier to navigate a document, select DOM elements, create animations, handle events, and develop Ajax applications.</p><p>jQuery also provides capabilities for developers to create plug-ins on top of the JavaScript library.</p><p>This enables developers to create abstractions for low-level interaction and animation, advanced effects and high-level, theme-able widgets. The modular approach to the jQuery library allows the creation of powerful dynamic web pages and web applications.</p></div></div>"
+}

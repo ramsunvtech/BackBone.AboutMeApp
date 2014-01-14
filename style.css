@@ -1,0 +1,14 @@
+.page-body{
+  margin: 20px;
+}
+
+div.panel img{
+  float:left;
+}
+
+.footer {
+  border-top: 1px solid #CCCCCC;
+  padding: 20px 0;
+  text-align: center;
+  width: 100%;
+}

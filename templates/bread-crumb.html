@@ -1,0 +1,13 @@
+<ol class="breadcrumb">
+  <% _.each(breadCrumb.items,function(bItem) { %>
+      <li<% if(bItem.active) { %> class="active" <% } %>>
+        <% if(bItem.href) { %>
+          <a href="<%= bItem.href %>" title="<%= bItem.title %>">
+            <%=bItem.text%>
+          </a>
+        <% } else { %>
+          <%=bItem.text%>
+        <% } %>
+      </li>
+  <% }); %>
+</ol>
